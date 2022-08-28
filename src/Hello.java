@@ -1,5 +1,4 @@
 /**
- * 
  * @author Ben Fritz
  * 
  * Date 2022/28/08
@@ -11,5 +10,6 @@ public class Hello {
 
 	public static void main(String args[]) {
 	 System.out.println("Ben Fritz");
+	 System.out.println("Software Engineer");
 	}
 }
